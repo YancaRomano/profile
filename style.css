@@ -151,7 +151,7 @@ footer {
 		text-align: center;
 	}
 	.containerProfile__Photo {
-		width: 50vw;
+		width: 40vw;
 	}
 	.profile-image {
 		width: 9em;
@@ -173,7 +173,7 @@ footer {
 		height: 17px;
 	}
 	footer {
-		margin-top: 7cm;
+		margin-top: 4cm;
 	}
 }
 @media (max-width: 768px) {
